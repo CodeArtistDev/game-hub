@@ -15,11 +15,11 @@ const App = () => {
       <Stack
         hideBelow="lg"
       >
-        <GridItem area="aside" bg="gold">
+        <GridItem area="aside" >
           Aside
         </GridItem>
       </Stack>
-      <GridItem area="main" bg="dodgerblue">
+      <GridItem area="main">
         Main
       </GridItem>
     </Grid>
