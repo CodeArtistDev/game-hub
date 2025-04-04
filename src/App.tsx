@@ -13,7 +13,8 @@ const App = () => {
       templateColumns={
         {
           base: '1fr',
-          lg: '200px 1fr'
+          lg: '200px 1fr',
+          xl: '300px 1fr'
         }
       }
     >
